@@ -71,6 +71,7 @@ namespace CapaIntegracion
             }
         }
 
+        //Mostrar estudiantes inactivos
         public static void MostrarDatosI(DataGridView data)
         {
             //conexion.ObtenerConexion();
